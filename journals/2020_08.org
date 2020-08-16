@@ -20,9 +20,9 @@
 * Aug 15th, 2020
 ** [[学习笔记]]
 *** 博客园学习
-**** 博客园学习到了如何部署主题，并且发表了人生中第一篇博客
-***** https://www.cnblogs.com/LR--Gragon/p/13504515.html
-**** ![123](https://www.cnblogs.com/LR--Gragon/p/13504515.html)
+**** 博客园学习到了如何部署主题，并且发表了人生中
+**** ![第一篇博客](https://www.cnblogs.com/LR--Gragon/p/13504515.html)
+****
 **
 * Aug 16th, 2020
 * Aug 17th, 2020
